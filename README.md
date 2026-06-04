@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I'm Travis
+
+Computer Science graduate from Royal Holloway.
+
+## Technologies
+- Python
+- JavaScript
+- React
+- Express
+- SQL
+- Git
+
+## Projects
+- Workflow Scheduler
+- Resell Tracker
+- Portfolio Website
+
+## Currently Learning
+- AWS
+- System Design
+- LeetCode
 
 <!--
 **travis-kayode/travis-kayode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
